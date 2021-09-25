@@ -6,6 +6,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkDampSquib&theme=dark)](https://git.io/streak-stats)
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDampSquib&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<img src="https://komarev.com/ghpvc/?username=DarkDampSquib&style=flat-square" alt="DarkDampSquib" />
 <!--
 **DarkDampSquib/DarkDampSquib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
