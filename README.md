@@ -1,5 +1,7 @@
 ### Hi there 👋
+<br>
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=DarkDampSquib&show_icons=true&count_private=true&theme=dark)
 <!--
 **DarkDampSquib/DarkDampSquib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
